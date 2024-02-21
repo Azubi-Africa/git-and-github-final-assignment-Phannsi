@@ -25,8 +25,8 @@ The below table must contain the details of the repositories you will create, fi
 |     |           Project's Name           |         Description          |                               GitHub's Link                                |
 | :-: | :--------------------------------: | :--------------------------: | :------------------------------------------------------------------------: |
 |  1  | Sales data exploration with python | Data exploration with Python | [https:// ](https://github.com/Phannsi/Sales-data-exploration-with-python) |
-|  2  |    Data exploration with pandas    | Data exploration with Pandas |    [https:// ](https://github.com/Phannsi/Data-exploration-with-Pandas)    |
-|  3  |    Sakila dashboard on power BI    | Sakila Dashboard on Power BI |    [https:// ](https://github.com/Phannsi/Sakila-Dashboard-on-Power-BI)    |
+|  2  | Data exploration with pandas       | Data exploration with Pandas | [https:// ](https://github.com/Phannsi/Data-exploration-with-Pandas)       |
+|  3  | Sakila dashboard on power BI       | Sakila Dashboard on Power BI | [https:// ](https://github.com/Phannsi/Sakila-Dashboard-on-Power-BI)       |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
